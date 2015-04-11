@@ -2,7 +2,7 @@ Citi Bike Analysis
 ========
 
 ###Context
-This is project written for a programming challenge with a 4 hour time limit. Citi Bike is a bicycle sharing program that is comprised of a bicycle fleet and station network. Members enjoy inter-station travel between stations that are geographically dispersed throughout New York City.
+This is project written for a programming challenge with a **4 hour time limit***. Citi Bike is a bicycle sharing program that is comprised of a bicycle fleet and station network. Members enjoy inter-station travel between stations that are geographically dispersed throughout New York City.
 
 ###Station equilibrium
 Essential to the systems functionality is the ability for a member to pick up or drop off a bicycle at a station that geographically convenient. The two potentialities denote opposite station conditions; a station without spots for a drop off or without bicycles for pickup. Thus maintaining equilibrium requires a considerate redistribution strategy. This project is concerned only with bicycle shortages.
